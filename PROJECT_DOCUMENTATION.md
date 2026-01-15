@@ -26,4 +26,4 @@ A webpage showcasing the teams similar interest in anime. Each member lists thei
 -   Handled [specific sections], covering [specific topics or features].
 
 ### Prajita Sanyasi:
--   
+-   Worked on the Berkserk section, added blockquotes of anime summery and favuorite characters, embeded a youtube video of a edit of the anime, included photos.

@@ -23,7 +23,7 @@ A webpage showcasing the teams similar interest in anime. Each member lists thei
 
 ### Warren Macalino:
 
--   Handled [specific sections], covering [specific topics or features].
+-   Worked on Warren's favorite anime section. Added a short summary of the anime, some images from the show, and pictures of favorite characters with favorite quotes.
 
 ### Prajita Sanyasi:
 -   Worked on the Berkserk section, added blockquotes of anime summery and favuorite characters, embeded a youtube video of a edit of the anime, included photos.

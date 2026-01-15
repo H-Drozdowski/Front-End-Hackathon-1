@@ -2,17 +2,18 @@
 
 ## Project Overview
 
-[Provide a brief summary of the project, including the theme and objectives.]
+A webpage showcasing the teams similar interest in anime. Each member lists their favourite anime along with a summary, photo/video, and favourite characters.
 
 ## Team Members:
 
--   Name 1
--   Name 2
--   Name 3
+-   Arielle Delos Santos
+-   Hudson Drozdowski
+-   Warren Macalino
+-   Prajita Sanyasi
 
 ## Member Contributions:
 
-### Name 1:
+### Arielle Delos Santos:
 
 -   Worked on [specific elements] of the webpage.
 

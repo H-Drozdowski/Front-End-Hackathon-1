@@ -15,12 +15,15 @@ A webpage showcasing the teams similar interest in anime. Each member lists thei
 
 ### Arielle Delos Santos:
 
--   Worked on [specific elements] of the webpage.
+-   Worked on Arielle's favourite anime section, included a blockquote with a summary of the anime, embedded video of Maomao dancing from the anime, and a favourite character table. 
 
-### Name 2:
+### Hudson Drozdowski:
 
 -   Was responsible for [specific tasks], focusing on [specific HTML elements].
 
-### Name 3:
+### Warren Macalino:
 
 -   Handled [specific sections], covering [specific topics or features].
+
+### Prajita Sanyasi:
+-   
